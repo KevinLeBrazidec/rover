@@ -1,0 +1,4 @@
+com\bnp\rover\parser\PlateauParserImplTest.class
+com\bnp\rover\parser\RoverParserImplTest.class
+com\bnp\rover\model\RoverImplTest.class
+com\bnp\rover\AppTest.class
